@@ -1,0 +1,13 @@
+PPG_Retailer_Variant,Model,Train_r2,Test_r2,NumRows,NumCols,Promo_sparsity,Display_sparsity,Promotional_activity_sparsity,Sales_sparsity
+Promo.Group 19__Retailer 0,LassoRegression_Positive,0.8042948320486211,0.7673709556881789,565,12,79.65,99.12,79.65,80.0
+Promo.Group 19__Retailer 1,LassoRegression_Positive,0.7944744045812389,0.8579216449072773,565,12,92.92,73.45,71.68,79.29
+Promo.Group 20__Retailer 0,LinearRegression_Positive,0.587502716991632,0.4799241334765302,1688,13,60.13,72.57,60.13,60.55
+Promo.Group 20__Retailer 1,LassoRegression_Positive,0.5736641638082518,0.4995096738918098,1689,13,38.01,61.1,38.01,59.15
+Promo.Group 22__Retailer 0,ElasticNetRegression_Positive,0.7656297713591363,0.4020840635511741,113,12,82.3,99.12,82.3,12.39
+Promo.Group 22__Retailer 1,LassoRegression_Positive,0.7726024045876122,0.36815083422743344,113,12,94.69,74.34,74.34,4.42
+Promo.Group 3__Retailer 0,LassoRegression_Positive,0.3020712304569707,0.24286256963308772,5078,12,53.07,61.93,53.07,80.37
+Promo.Group 3__Retailer 1,LinearRegression_Positive,0.4295821250923644,0.2712785364179692,5080,12,40.75,63.74,39.86,90.0
+Promo.Group 5__Retailer 0,LinearRegression_Positive,0.7302593204105512,0.7082290856796234,1240,13,77.02,96.45,77.02,65.0
+Promo.Group 5__Retailer 1,LassoRegression_Positive,0.7064110789737408,0.7055927457919093,1242,13,92.91,69.0,68.12,61.03
+Promo.Group 6__Retailer 0,LinearRegression_Positive,0.4212692976398277,0.4112132614664865,3498,12,49.57,53.12,49.57,55.49
+Promo.Group 6__Retailer 1,ElasticNetRegression_Positive,0.38937073677223655,0.43155510414277043,3500,12,40.71,61.06,40.71,61.06

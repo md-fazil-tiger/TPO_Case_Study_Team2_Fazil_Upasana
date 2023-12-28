@@ -1,0 +1,114 @@
+Date,PPG,promo_catalogue,promo_ins,display_platinum,display_gold,display_silver,display_bronze,Retailer,Segment,Sub.Segment,Brand,Sub.Brand,Packsize,Product.Type,APN,Vol.Sales,Wtd.Selling.Dist,PPG_Retailer,WeekNum,Month,Quarter,Year,Month_Year
+2018-08-05,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,,Brand 1,Sub.Brand 63,520.0,Product.Type 3,APN 171,0.0,0.0,Promo.Group 22__Retailer 0,31,8,3,2018,8__2018
+2018-08-12,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,,Brand 1,Sub.Brand 63,520.0,Product.Type 3,APN 171,0.0,0.0,Promo.Group 22__Retailer 0,32,8,3,2018,8__2018
+2018-08-19,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,,Brand 1,Sub.Brand 63,520.0,Product.Type 3,APN 171,0.01404,2.6,Promo.Group 22__Retailer 0,33,8,3,2018,8__2018
+2018-08-26,Promo.Group 22,0,1,0,0,0,0,Retailer 0,Candy Bags,,Brand 1,Sub.Brand 63,520.0,Product.Type 3,APN 171,0.32552,26.8,Promo.Group 22__Retailer 0,34,8,3,2018,8__2018
+2018-09-02,Promo.Group 22,0,1,0,0,0,0,Retailer 0,Candy Bags,,Brand 1,Sub.Brand 63,520.0,Product.Type 3,APN 171,1.05352,49.0,Promo.Group 22__Retailer 0,35,9,3,2018,9__2018
+2018-09-09,Promo.Group 22,0,1,0,0,0,0,Retailer 0,Candy Bags,,Brand 1,Sub.Brand 63,520.0,Product.Type 3,APN 171,1.30416,76.0,Promo.Group 22__Retailer 0,36,9,3,2018,9__2018
+2018-09-16,Promo.Group 22,0,1,0,0,0,0,Retailer 0,Candy Bags,,Brand 1,Sub.Brand 63,520.0,Product.Type 3,APN 171,2.72376,94.0,Promo.Group 22__Retailer 0,37,9,3,2018,9__2018
+2018-09-23,Promo.Group 22,0,1,0,0,0,0,Retailer 0,Candy Bags,,Brand 1,Sub.Brand 63,520.0,Product.Type 3,APN 171,3.45592,95.9,Promo.Group 22__Retailer 0,38,9,3,2018,9__2018
+2018-09-30,Promo.Group 22,0,1,0,0,0,0,Retailer 0,Candy Bags,,Brand 1,Sub.Brand 63,520.0,Product.Type 3,APN 171,2.69724,97.1,Promo.Group 22__Retailer 0,39,9,3,2018,9__2018
+2018-10-07,Promo.Group 22,0,1,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,3.43044,98.7,Promo.Group 22__Retailer 0,40,10,4,2018,10__2018
+2018-10-14,Promo.Group 22,0,1,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,2.94944,99.0,Promo.Group 22__Retailer 0,41,10,4,2018,10__2018
+2018-10-21,Promo.Group 22,0,1,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,3.42264,99.0,Promo.Group 22__Retailer 0,42,10,4,2018,10__2018
+2018-10-28,Promo.Group 22,0,1,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,3.23908,99.0,Promo.Group 22__Retailer 0,43,10,4,2018,10__2018
+2018-11-04,Promo.Group 22,0,1,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,2.81944,98.9,Promo.Group 22__Retailer 0,44,11,4,2018,11__2018
+2018-11-11,Promo.Group 22,0,1,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,2.2646,98.9,Promo.Group 22__Retailer 0,45,11,4,2018,11__2018
+2018-11-18,Promo.Group 22,0,1,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,2.18192,98.9,Promo.Group 22__Retailer 0,46,11,4,2018,11__2018
+2018-11-25,Promo.Group 22,0,1,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,2.64628,98.8,Promo.Group 22__Retailer 0,47,11,4,2018,11__2018
+2018-12-02,Promo.Group 22,0,1,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,2.33636,98.4,Promo.Group 22__Retailer 0,48,12,4,2018,12__2018
+2018-12-09,Promo.Group 22,0,1,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,3.18864,97.6,Promo.Group 22__Retailer 0,49,12,4,2018,12__2018
+2018-12-16,Promo.Group 22,0,1,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,3.37688,96.9,Promo.Group 22__Retailer 0,50,12,4,2018,12__2018
+2018-12-23,Promo.Group 22,0,1,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,2.86728,95.8,Promo.Group 22__Retailer 0,51,12,4,2018,12__2018
+2018-12-30,Promo.Group 22,0,1,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,2.28332,95.6,Promo.Group 22__Retailer 0,52,12,4,2018,12__2018
+2019-01-06,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,2.24224,95.4,Promo.Group 22__Retailer 0,1,1,1,2019,1__2019
+2019-01-13,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,1.49032,95.1,Promo.Group 22__Retailer 0,2,1,1,2019,1__2019
+2019-01-20,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,2.37536,95.7,Promo.Group 22__Retailer 0,3,1,1,2019,1__2019
+2019-01-27,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,1.95884,95.6,Promo.Group 22__Retailer 0,4,1,1,2019,1__2019
+2019-02-03,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,2.40604,95.5,Promo.Group 22__Retailer 0,5,2,1,2019,2__2019
+2019-02-10,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,1.48252,95.0,Promo.Group 22__Retailer 0,6,2,1,2019,2__2019
+2019-02-17,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,2.47104,94.4,Promo.Group 22__Retailer 0,7,2,1,2019,2__2019
+2019-02-24,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,2.10236,94.6,Promo.Group 22__Retailer 0,8,2,1,2019,2__2019
+2019-03-03,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,2.847,94.8,Promo.Group 22__Retailer 0,9,3,1,2019,3__2019
+2019-03-10,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,2.12576,94.9,Promo.Group 22__Retailer 0,10,3,1,2019,3__2019
+2019-03-17,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,2.48352,95.0,Promo.Group 22__Retailer 0,11,3,1,2019,3__2019
+2019-03-24,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,2.17464,94.8,Promo.Group 22__Retailer 0,12,3,1,2019,3__2019
+2019-03-31,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,2.51732,94.3,Promo.Group 22__Retailer 0,13,3,1,2019,3__2019
+2019-04-07,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,2.32492,94.5,Promo.Group 22__Retailer 0,14,4,2,2019,4__2019
+2019-04-14,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,3.70656,94.9,Promo.Group 22__Retailer 0,15,4,2,2019,4__2019
+2019-04-21,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,1.50228,94.8,Promo.Group 22__Retailer 0,16,4,2,2019,4__2019
+2019-04-28,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,2.8236,94.5,Promo.Group 22__Retailer 0,17,4,2,2019,4__2019
+2019-05-05,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,2.23184,94.8,Promo.Group 22__Retailer 0,18,5,2,2019,5__2019
+2019-05-12,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,2.48976,94.9,Promo.Group 22__Retailer 0,19,5,2,2019,5__2019
+2019-05-19,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,2.08104,95.1,Promo.Group 22__Retailer 0,20,5,2,2019,5__2019
+2019-05-26,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,3.5906,94.9,Promo.Group 22__Retailer 0,21,5,2,2019,5__2019
+2019-06-02,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,1.5158,95.0,Promo.Group 22__Retailer 0,22,6,2,2019,6__2019
+2019-06-09,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,2.41748,95.0,Promo.Group 22__Retailer 0,23,6,2,2019,6__2019
+2019-06-16,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,2.08676,95.1,Promo.Group 22__Retailer 0,24,6,2,2019,6__2019
+2019-06-23,Promo.Group 22,1,0,0,0,0,1,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,6.10636,95.2,Promo.Group 22__Retailer 0,25,6,2,2019,6__2019
+2019-06-30,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,4.2536,95.2,Promo.Group 22__Retailer 0,26,6,2,2019,6__2019
+2019-07-07,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,3.11792,95.2,Promo.Group 22__Retailer 0,27,7,3,2019,7__2019
+2019-07-14,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,3.68576,95.3,Promo.Group 22__Retailer 0,28,7,3,2019,7__2019
+2019-07-21,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,3.40392,95.6,Promo.Group 22__Retailer 0,29,7,3,2019,7__2019
+2019-07-28,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,2.10028,95.6,Promo.Group 22__Retailer 0,30,7,3,2019,7__2019
+2019-08-04,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,5.01644,95.7,Promo.Group 22__Retailer 0,31,8,3,2019,8__2019
+2019-08-11,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,2.88392,95.7,Promo.Group 22__Retailer 0,32,8,3,2019,8__2019
+2019-08-18,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,2.85584,95.7,Promo.Group 22__Retailer 0,33,8,3,2019,8__2019
+2019-08-25,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,3.12104,95.5,Promo.Group 22__Retailer 0,34,8,3,2019,8__2019
+2019-09-01,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,3.5906,95.4,Promo.Group 22__Retailer 0,35,9,3,2019,9__2019
+2019-09-08,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,2.21156,95.4,Promo.Group 22__Retailer 0,36,9,3,2019,9__2019
+2019-09-15,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,3.3202,95.6,Promo.Group 22__Retailer 0,37,9,3,2019,9__2019
+2019-09-22,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,3.2266,95.6,Promo.Group 22__Retailer 0,38,9,3,2019,9__2019
+2019-09-29,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,3.6556,95.8,Promo.Group 22__Retailer 0,39,9,3,2019,9__2019
+2019-10-06,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,5.92592,96.0,Promo.Group 22__Retailer 0,40,10,4,2019,10__2019
+2019-10-13,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,7.76568,96.1,Promo.Group 22__Retailer 0,41,10,4,2019,10__2019
+2019-10-20,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,3.84124,96.3,Promo.Group 22__Retailer 0,42,10,4,2019,10__2019
+2019-10-27,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,3.9156,96.4,Promo.Group 22__Retailer 0,43,10,4,2019,10__2019
+2019-11-03,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,5.2962,96.5,Promo.Group 22__Retailer 0,44,11,4,2019,11__2019
+2019-11-10,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,4.90256,96.4,Promo.Group 22__Retailer 0,45,11,4,2019,11__2019
+2019-11-17,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,3.185,96.4,Promo.Group 22__Retailer 0,46,11,4,2019,11__2019
+2019-11-24,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,3.67536,96.3,Promo.Group 22__Retailer 0,47,11,4,2019,11__2019
+2019-12-01,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,3.22452,96.2,Promo.Group 22__Retailer 0,48,12,4,2019,12__2019
+2019-12-08,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,3.90156,96.1,Promo.Group 22__Retailer 0,49,12,4,2019,12__2019
+2019-12-15,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,4.13192,95.9,Promo.Group 22__Retailer 0,50,12,4,2019,12__2019
+2019-12-22,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,4.01804,96.1,Promo.Group 22__Retailer 0,51,12,4,2019,12__2019
+2019-12-29,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,2.69256,95.5,Promo.Group 22__Retailer 0,52,12,4,2019,12__2019
+2020-01-05,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,3.07736,95.6,Promo.Group 22__Retailer 0,1,1,1,2020,1__2020
+2020-01-12,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,1.7446,95.7,Promo.Group 22__Retailer 0,2,1,1,2020,1__2020
+2020-01-19,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,3.32852,95.7,Promo.Group 22__Retailer 0,3,1,1,2020,1__2020
+2020-01-26,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,2.63432,95.5,Promo.Group 22__Retailer 0,4,1,1,2020,1__2020
+2020-02-02,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,3.07268,95.4,Promo.Group 22__Retailer 0,5,2,1,2020,2__2020
+2020-02-09,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,1.79972,95.7,Promo.Group 22__Retailer 0,6,2,1,2020,2__2020
+2020-02-16,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,3.17564,95.4,Promo.Group 22__Retailer 0,7,2,1,2020,2__2020
+2020-02-23,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,2.63484,95.5,Promo.Group 22__Retailer 0,8,2,1,2020,2__2020
+2020-03-01,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,4.85732,95.5,Promo.Group 22__Retailer 0,9,3,1,2020,3__2020
+2020-03-08,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,2.64264,95.6,Promo.Group 22__Retailer 0,10,3,1,2020,3__2020
+2020-03-15,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,3.224,95.5,Promo.Group 22__Retailer 0,11,3,1,2020,3__2020
+2020-03-22,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,1.82832,95.4,Promo.Group 22__Retailer 0,12,3,1,2020,3__2020
+2020-03-29,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,0.70148,95.1,Promo.Group 22__Retailer 0,13,3,1,2020,3__2020
+2020-04-05,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,0.12168,94.3,Promo.Group 22__Retailer 0,14,4,2,2020,4__2020
+2020-04-12,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,0.05876,69.0,Promo.Group 22__Retailer 0,15,4,2,2020,4__2020
+2020-04-19,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,0.01872,35.8,Promo.Group 22__Retailer 0,16,4,2,2020,4__2020
+2020-04-26,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,0.02444,13.3,Promo.Group 22__Retailer 0,17,4,2,2020,4__2020
+2020-05-03,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,0.0078,6.0,Promo.Group 22__Retailer 0,18,5,2,2020,5__2020
+2020-05-10,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,0.00416,3.4,Promo.Group 22__Retailer 0,19,5,2,2020,5__2020
+2020-05-17,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,0.01456,2.9,Promo.Group 22__Retailer 0,20,5,2,2020,5__2020
+2020-05-24,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,0.00104,1.8,Promo.Group 22__Retailer 0,21,5,2,2020,5__2020
+2020-05-31,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,0.00624,2.0,Promo.Group 22__Retailer 0,22,5,2,2020,5__2020
+2020-06-07,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,0.00104,2.0,Promo.Group 22__Retailer 0,23,6,2,2020,6__2020
+2020-06-14,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,0.0052,1.4,Promo.Group 22__Retailer 0,24,6,2,2020,6__2020
+2020-06-21,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,0.0,1.2,Promo.Group 22__Retailer 0,25,6,2,2020,6__2020
+2020-06-28,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,0.0,0.4,Promo.Group 22__Retailer 0,26,6,2,2020,6__2020
+2020-07-05,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,0.0,0.1,Promo.Group 22__Retailer 0,27,7,3,2020,7__2020
+2020-07-12,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,0.0,0.0,Promo.Group 22__Retailer 0,28,7,3,2020,7__2020
+2020-07-19,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,0.0,0.0,Promo.Group 22__Retailer 0,29,7,3,2020,7__2020
+2020-07-26,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,0.0,0.0,Promo.Group 22__Retailer 0,30,7,3,2020,7__2020
+2020-08-02,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,0.00052,0.1,Promo.Group 22__Retailer 0,31,8,3,2020,8__2020
+2020-08-09,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,0.0,0.1,Promo.Group 22__Retailer 0,32,8,3,2020,8__2020
+2020-08-16,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,0.0,0.1,Promo.Group 22__Retailer 0,33,8,3,2020,8__2020
+2020-08-23,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,0.0,0.1,Promo.Group 22__Retailer 0,34,8,3,2020,8__2020
+2020-08-30,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,0.00208,0.1,Promo.Group 22__Retailer 0,35,8,3,2020,8__2020
+2020-09-06,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,0.00052,0.2,Promo.Group 22__Retailer 0,36,9,3,2020,9__2020
+2020-09-13,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,0.0,0.2,Promo.Group 22__Retailer 0,37,9,3,2020,9__2020
+2020-09-20,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,0.0,0.2,Promo.Group 22__Retailer 0,38,9,3,2020,9__2020
+2020-09-27,Promo.Group 22,0,0,0,0,0,0,Retailer 0,Candy Bags,Candy Bags - Jelly,Brand 1,Sub.Brand 1,520.0,Product.Type 1,APN 171,0.0,0.1,Promo.Group 22__Retailer 0,39,9,3,2020,9__2020

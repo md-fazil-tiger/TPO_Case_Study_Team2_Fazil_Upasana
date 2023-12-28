@@ -1,0 +1,8 @@
+Model,promo_catalogue,promo_ins,display_platinum,display_gold,display_silver,display_bronze,Packsize,Wtd.Selling.Dist,WeekNum,Month,Product.Type_Product.Type 3,Constant
+LinearRegression,0.57,-6.23,0.0,0.0,0.0,0.57,0.0,92.0,42.48,3.62,2.29,-35.3
+SGDRegression,0.14,-2.23,0.0,0.0,0.0,0.14,0.0,67.81,15.66,14.77,-0.55,4.26
+LassoRegression,1.13,-6.21,0.0,0.0,0.0,0.0,0.0,91.99,42.46,3.59,2.27,-35.23
+RidgeRegression,0.51,-5.88,0.0,0.0,0.0,0.51,0.0,89.9,37.54,6.13,2.0,-30.69
+LinearRegression_Positive,0.0,0.0,0.0,0.0,0.0,1.19,0.0,88.52,39.63,0.0,0.31,-29.64
+LassoRegression_Positive,1.18,0.0,0.0,0.0,0.0,0.0,0.0,88.51,39.58,0.0,0.31,-29.59
+ElasticNetRegression_Positive,0.54,0.0,0.0,0.0,0.0,0.54,0.0,88.01,38.16,0.0,0.22,-27.48
