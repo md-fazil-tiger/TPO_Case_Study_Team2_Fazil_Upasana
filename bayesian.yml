@@ -1,0 +1,4 @@
+name: bayesian
+channels:
+  - defaults
+prefix: C:\Users\md.fazil\.conda\envs\bayesian

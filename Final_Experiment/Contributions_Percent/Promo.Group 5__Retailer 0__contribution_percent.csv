@@ -1,8 +1,9 @@
-Model,promo_catalogue,promo_ins,display_platinum,display_gold,display_silver,display_bronze,Packsize,Wtd.Selling.Dist,WeekNum,Month,Segment_Xmas,Product.Type_Product.Type 3,Constant
-LinearRegression,1.32,4.77,0.0,0.0,0.0,-0.74,2.48,102.46,35.02,-5.22,0.0,1.3,-41.4
-SGDRegression,0.28,3.92,0.0,0.0,0.0,0.19,-5.13,97.2,18.75,1.4,-1.81,1.26,-16.06
-LassoRegression,0.22,3.58,0.0,0.0,0.0,0.0,0.0,100.78,24.96,0.0,0.0,0.92,-30.46
-RidgeRegression,0.97,4.3,0.0,0.0,0.0,-0.34,1.17,100.85,31.9,-3.34,-0.24,1.39,-36.66
-LinearRegression_Positive,0.95,3.46,0.0,0.0,0.0,0.0,2.6,102.51,30.96,0.0,0.02,1.63,-42.14
-LassoRegression_Positive,0.22,3.58,0.0,0.0,0.0,0.0,0.0,100.78,24.96,0.0,0.0,0.92,-30.46
-ElasticNetRegression_Positive,0.22,3.58,0.0,0.0,0.0,0.0,0.0,100.78,24.96,0.0,0.0,0.92,-30.46
+Model,display_bronze,display_platinum,within_promo_ins,within_display_gold,within_display_bronze,cross_box_display_gold,cross_box_display_platinum,cross_box_display_silver,Month_2,Wtd.Selling.Dist,Product.Type_Product.Type 3,Price,Month_3,within_display_platinum,within_display_silver,promo_catalogue,display_silver,display_gold,cross_box_display_bronze,cross_box_promo_ins,promo_ins,Constant
+LinearRegression,-1.26,0.0,3.01,-0.68,-1.63,0.3,0.44,0.32,-0.58,21.34,0.98,-11.82,0.33,-1.22,-1.23,1.71,0.0,0.0,1.79,-1.76,7.1,82.88
+SGDRegression,0.13,0.0,1.33,0.19,1.16,0.27,0.9,0.14,0.14,8.71,0.59,25.71,0.26,0.19,0.34,0.07,0.0,0.0,0.87,2.7,4.24,52.06
+LassoRegression,0.0,0.0,0.31,0.0,0.0,0.0,0.0,0.0,0.0,8.75,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.8,84.14
+RidgeRegression,0.14,0.0,1.39,-0.28,-0.09,-0.06,-0.14,0.12,-0.35,7.22,0.63,0.38,-0.07,-0.59,-0.43,0.15,0.0,0.0,0.51,-0.35,4.81,87.01
+BayesianRegression,-1.29,0.0,2.28,-1.68,-3.29,-0.24,-0.87,0.13,-0.49,21.4,0.88,-16.92,0.35,-2.18,-2.81,1.93,0.0,0.0,0.77,-2.59,7.73,96.89
+LinearRegression_Positive,0.0,0.0,2.95,0.0,0.0,0.57,1.3,0.25,0.0,20.83,0.95,0.0,0.54,0.0,0.0,1.15,0.0,0.0,1.32,0.0,6.71,63.43
+LassoRegression_Positive,0.0,0.0,1.9,0.0,0.0,0.0,0.0,0.0,0.0,15.08,0.19,0.0,0.0,0.0,0.0,0.64,0.0,0.0,0.0,0.0,7.07,75.11
+ElasticNetRegression_Positive,0.0,0.0,1.88,0.0,0.0,0.0,0.0,0.0,0.0,13.14,0.42,0.0,0.0,0.0,0.0,0.45,0.0,0.0,0.3,0.0,6.58,77.22
